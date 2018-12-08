@@ -5,4 +5,4 @@ This  repository include of my projects of Udacity:
 * Customer Segments (Supervised Learning)
 * Finding Donors (Unsupervised Learning)
 * Smartcab (Reinforcement Learning)
-* Dog project master (D
+* Dog project master (Deep Learning)
