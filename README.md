@@ -6,3 +6,4 @@ This  repository include of my projects of Udacity:
 * Customer Segments (Unsupervised Learning)
 * Smartcab (Reinforcement Learning)
 * Dog project master (Deep Learning)
+* Capstone (Deep Learning)
